@@ -2,7 +2,7 @@
 
 [Codewell.cc](https://www.codewell.cc/) challenge converting a .png mockup design to a responsive HTML static webpage. This uses jekyll to generate the page and bulma css framework for some basic styling.
 
-See it live [here.](codewell-yelpcamp.netlify.app)
+See it live [here.](https://codewell-yelpcamp.netlify.app)
 
 ![codewell newsletter popup design](YelpCampStarterFiles/Design/landingpagedesktop.jpg)
 
